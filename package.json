@@ -1,0 +1,26 @@
+{
+	"name": "paiva-it",
+	"displayName": "paiva-it",
+	"description": "Paiva IT Official Theme",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.103.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Paiva IT Official Theme (High Contrast)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/paiva-it-high-contrast.json"
+			},
+			{
+				"label": "Paiva IT Official Theme (Pastel)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/paiva-it-pastel.json"
+			}
+		]
+	}
+}
