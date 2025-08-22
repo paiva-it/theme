@@ -3,7 +3,7 @@
 	"publisher": "paiva-it-theme",
 	"displayName": "paiva-it",
 	"description": "Paiva IT Official Theme",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"engines": {
 		"vscode": "^1.103.0"
 	},
