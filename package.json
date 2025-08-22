@@ -22,5 +22,21 @@
 				"path": "./themes/paiva-it-pastel.json"
 			}
 		]
-	}
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/paiva-it/theme"
+	},
+	"galleryBanner": {
+		"color": "#101820",
+		"theme": "dark"
+	},
+	"screenshots": [
+		{
+			"path": "assets/high-contrast.png"
+		},
+		{
+			"path": "assets/pastel.png"
+		}
+	]
 }

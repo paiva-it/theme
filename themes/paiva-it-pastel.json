@@ -274,6 +274,7 @@
 		"titleBar.inactiveBackground": "#202428",
 		"titleBar.activeBackground": "#202428",
 		"quickInput.background": "#202428",
+		"editorOverviewRuler.background": "#202428",
 		"editorCursor.foreground": "#ffffff",
 		"editor.foreground": "#fefefe",
 		"editorWhitespace.foreground": "#8886",
