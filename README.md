@@ -70,4 +70,4 @@ Inspired by [_Oceanic Next_ by Sergii N](https://marketplace.visualstudio.com/it
 
 ## 📜 License
 
-[MIT](https://github.com/paiva-it/theme/blob/main/LICENSE)
+[MIT](https://github.com/paiva-it/theme/main/LICENSE)
