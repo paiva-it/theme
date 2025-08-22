@@ -1,7 +1,7 @@
 {
 	"name": "paiva-it-theme",
-	"publisher": "paiva-it-theme",
-	"displayName": "paiva-it",
+	"publisher": "paiva-it",
+	"displayName": "paiva-it-theme",
 	"description": "Paiva IT Official Theme",
 	"version": "0.5.0",
 	"engines": {
