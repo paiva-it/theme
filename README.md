@@ -1,15 +1,16 @@
 # 🌈 Paiva IT Official Theme
 
 A modern **dark theme pack** for Visual Studio Code — crafted for clarity, contrast, and long coding sessions.  
-Includes both **High Contrast** and **Pastel** variants.
+Includes **High Contrast**, **Pastel**, and **Hybrid** variants.
 
 ---
 
 ## ✨ Features
 
-- 🎨 **Two Variants**:
+- 🎨 **Three Variants**:
   - **High Contrast**: Crisp, vibrant colors with maximum readability.
   - **Pastel**: Softer, modern pastel tones with good contrast on dark backgrounds.
+  - **Hybrid**: A balanced blend of high contrast and pastel tones for optimal readability and aesthetics.
 - 🖥️ Designed for **focus and productivity**.
 - 👩‍💻 Ideal for **web developers**, **full stack engineers**, and anyone who spends hours in VS Code.
 - ✅ Optimized for **JavaScript, TypeScript, React, HTML, CSS, Markdown**, and more.
@@ -26,6 +27,10 @@ Includes both **High Contrast** and **Pastel** variants.
 
 ![Pastel Preview](https://raw.githubusercontent.com/paiva-it/theme/main/assets/pastel.png)
 
+### Hybrid
+
+![Hybrid Preview](https://raw.githubusercontent.com/paiva-it/theme/main/assets/hybrid.png)
+
 > 💡 To see the theme in action, check out the screenshots above (make sure you pull the repo with the `/assets` folder).
 
 ---
@@ -38,7 +43,7 @@ Includes both **High Contrast** and **Pastel** variants.
 2. Search for **`Paiva IT`**.
 3. Click **Install**.
 4. Open Command Palette (`Ctrl/⌘ + Shift + P`) → **Preferences: Color Theme**.
-5. Select **Paiva IT Official Theme (High Contrast)** or **Paiva IT Official Theme (Pastel)**.
+5. Select **Paiva IT Official Theme (High Contrast)**, **Paiva IT Official Theme (Pastel)**, or **Paiva IT Official Theme (Hybrid)**.
 
 ### Manual Install (From Source)
 

@@ -326,26 +326,26 @@
 		"widget.border": "#404850",
 		"focusBorder": "#404850",
 
-		"tab.inactiveBackground": "#101820",
+		"tab.inactiveBackground": "#202428",
 		"tab.inactiveForeground": "#888",
-		"tab.activeBackground": "#202830",
+		"tab.activeBackground": "#303438",
 		"tab.activeForeground": "#fff",
 		"tab.activeBorder": "#404850",
 
-		"editor.background": "#101820",
-		"sideBar.background": "#101820",
-		"statusBar.background": "#101820",
-		"activityBar.background": "#101820",
-		"editorGroupHeader.tabsBackground": "#101820",
-		"titleBar.inactiveBackground": "#101820",
-		"titleBar.activeBackground": "#101820",
-		"quickInput.background": "#101820",
-		"editorOverviewRuler.background": "#101820",
+		"editor.background": "#202428",
+		"sideBar.background": "#202428",
+		"statusBar.background": "#202428",
+		"activityBar.background": "#202428",
+		"editorGroupHeader.tabsBackground": "#202428",
+		"titleBar.inactiveBackground": "#202428",
+		"titleBar.activeBackground": "#202428",
+		"quickInput.background": "#202428",
+		"editorOverviewRuler.background": "#202428",
 		"editorCursor.foreground": "#ffffff",
-		"editor.foreground": "#ffffff",
+		"editor.foreground": "#fefefe",
 		"editorWhitespace.foreground": "#8886",
 		"editor.lineHighlightBackground": "#8884",
-		"editor.selectionBackground": "#8888"
+		"editor.selectionBackground": "#a5d8ff44"
 	},
-	"name": "Paiva IT Official Theme - High Contrast"
+	"name": "Paiva IT Official Theme - Pastel"
 }

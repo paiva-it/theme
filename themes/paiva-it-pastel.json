@@ -266,6 +266,72 @@
 		}
 	],
 	"colors": {
+		"editorGroupHeader.border": "#404850",
+		"editorGroupHeader.tabsBorder": "#0000",
+
+		"panel.border": "#404850",
+		"panelSection.border": "#404850",
+		"panelSectionHeader.border": "#404850",
+		"panelTitle.activeBorder": "#404850",
+
+		"sideBar.border": "#404850",
+		"sideBarSectionHeader.border": "#404850",
+		"sideBarTitle.foreground": "#404850",
+
+		"statusBar.border": "#404850",
+
+		"activityBar.border": "#404850",
+
+		"notificationCenter.border": "#404850",
+		"notificationToast.border": "#404850",
+		"notifications.border": "#404850",
+
+		"dropdown.border": "#404850",
+		"pickerGroup.border": "#404850",
+
+		"breadcrumbPicker.border": "#404850",
+
+		"diffEditor.border": "#404850",
+
+		"input.border": "#404850",
+
+		"chat.avatarBorder": "#404850",
+		"chat.requestBorder": "#404850",
+		"chat.responseBorder": "#404850",
+		"inlineChat.border": "#404850",
+		"inlineChat.shadow": "#404850",
+
+		"debugToolBar.border": "#404850",
+		"debugExceptionWidget.border": "#404850",
+		"debugConsole.border": "#404850",
+
+		"terminal.border": "#404850",
+
+		"merge.border": "#404850",
+		"mergeEditor.change.border": "#404850",
+		"mergeEditor.conflict.border": "#404850",
+		"mergeEditor.conflict.unhandledUnfocused.border": "#404850",
+		"mergeEditor.conflict.unhandledFocused.border": "#404850",
+		"mergeEditor.conflict.handledUnfocused.border": "#404850",
+		"mergeEditor.conflict.handledFocused.border": "#404850",
+
+		"testing.message.info.border": "#404850",
+		"testing.message.error.border": "#404850",
+		"testing.message.warning.border": "#404850",
+
+		"welcomePage.border": "#404850",
+		"walkthrough.step.border": "#404850",
+
+		"contrastBorder": "#404850",
+		"widget.border": "#404850",
+		"focusBorder": "#404850",
+
+		"tab.inactiveBackground": "#202428",
+		"tab.inactiveForeground": "#888",
+		"tab.activeBackground": "#303438",
+		"tab.activeForeground": "#fff",
+		"tab.activeBorder": "#404850",
+
 		"editor.background": "#202428",
 		"sideBar.background": "#202428",
 		"statusBar.background": "#202428",
