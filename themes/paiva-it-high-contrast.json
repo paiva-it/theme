@@ -273,11 +273,12 @@
 		"editorGroupHeader.tabsBackground": "#101820",
 		"titleBar.inactiveBackground": "#101820",
 		"titleBar.activeBackground": "#101820",
-		"editorCursor.foreground": "#fff",
-		"editor.foreground": "#fff",
+		"quickInput.background": "#101820",
+		"editorCursor.foreground": "#ffffff",
+		"editor.foreground": "#ffffff",
 		"editorWhitespace.foreground": "#8886",
 		"editor.lineHighlightBackground": "#8884",
 		"editor.selectionBackground": "#8888"
 	},
-	"name": "Paiva IT Official Theme"
+	"name": "Paiva IT Official Theme - High Contrast"
 }
